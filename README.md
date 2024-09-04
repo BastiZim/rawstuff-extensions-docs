@@ -1,4 +1,4 @@
-# Bastian Marketplace
+# Rawstuff Marketplace
 
 The Bagisto Marketplace Extension is a powerful addition to your Bagisto store, transforming it into a versatile multi-vendor marketplace. This extension introduces a range of essential features, including separate seller product collections, streamlined order management, robust feedback systems with ratings, and intuitive commission management.
 
